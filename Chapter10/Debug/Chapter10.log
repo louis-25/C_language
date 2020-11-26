@@ -1,0 +1,4 @@
+﻿  문자열.c
+D:\Program Files\Microsoft Visual Studio\2019\source\repos\C_language\Chapter10\문자열.c(14,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Program Files\Microsoft Visual Studio\2019\source\repos\C_language\Chapter10\문자열.c(46,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Chapter10.vcxproj -> D:\Program Files\Microsoft Visual Studio\2019\source\repos\C_language\Chapter10\Debug\Chapter10.exe

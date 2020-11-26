@@ -1,0 +1,4 @@
+﻿  정육면체.c
+D:\Program Files\Microsoft Visual Studio\2019\source\repos\C_language\Chapter11\정육면체.c(51,16): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Program Files\Microsoft Visual Studio\2019\source\repos\C_language\Chapter11\정육면체.c(64,54): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Chapter11.vcxproj -> D:\Program Files\Microsoft Visual Studio\2019\source\repos\C_language\Chapter11\Debug\Chapter11.exe
